@@ -6,4 +6,4 @@
 	url = https://github.com/RajanKandel/git_test_repo_algo_club/
 [submodule "test_submodule2"]
 	path = test_submodule2
-	url = https://github.com/RajanKandel/test_submodule2
+	url = git@github.com:RajanKandel/test_submodule2.git
