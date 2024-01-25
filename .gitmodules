@@ -3,7 +3,7 @@
 	url = ./test_submodule/
 [submodule "git_test_repo_algo_club"]
 	path = git_test_repo_algo_club
-	url = https://github.com/RajanKandel/git_test_repo_algo_club/
+	url = git@github.com:RajanKandel/git_test_repo_algo_club.git
 [submodule "test_submodule2"]
 	path = test_submodule2
 	url = git@github.com:RajanKandel/test_submodule2.git
