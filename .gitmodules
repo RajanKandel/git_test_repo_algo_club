@@ -7,3 +7,6 @@
 [submodule "test_submodule2"]
 	path = test_submodule2
 	url = git@github.com:RajanKandel/test_submodule2.git
+[submodule "RajanKandel_IOB_algo_club"]
+	path = RajanKandel_IOB_algo_club
+	url = git@github.com:RajanKandel/RajanKandel_IOB_algo_club.git
