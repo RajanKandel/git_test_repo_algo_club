@@ -10,3 +10,6 @@
 [submodule "RajanKandel_IOB_algo_club"]
 	path = RajanKandel_IOB_algo_club
 	url = git@github.com:RajanKandel/RajanKandel_IOB_algo_club.git
+[submodule "test1_IOB_algo_club"]
+	path = test1_IOB_algo_club
+	url = https://github.com/RajanKandel/test1_IOB_algo_club.git
